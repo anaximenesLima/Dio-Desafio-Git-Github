@@ -1,0 +1,29 @@
+
+- Ferramenta CASE: 
+. RE-Tolls (opensource)
+. JIRA
+. Visure Requirement
+- Banco de dados:
+. DB-Main (Free)
+. BrModelo (Free)
+. DB Design (Opensource)
+. ERwin
+- UX:
+. Axure
+. Sketch (Appel)
+- POO:
+. Visual Paradigm (engenharia reversa)
+
+- Teoria em Prática
+Sistema: Parquímetro
+. Gerenciamento de estacionamento em vias públicas
+
+Solução:
+. identificar os requisitos funcionais e não funcionais
+. quais as feramentas cases?
+. integraçãos (API's)
+. descrever a infraestrutura de backend e front
+
+Pratica:
+uso ferramenta case: Astha
+. Diagrama de caso de uso
